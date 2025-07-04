@@ -1,0 +1,6 @@
+streamlit
+googlemaps
+haversine
+python-dotenv
+pandas
+requests
